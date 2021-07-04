@@ -17,7 +17,7 @@
 <br/>
 
 <a href="https://github.com/eliziebluiz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mannoeu&theme=synthwave&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliziebluiz&theme=synthwave&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliziebluiz&theme=synthwave&layout=compact" />
 </a>
 
