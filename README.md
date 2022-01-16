@@ -3,7 +3,8 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🎓 &nbsp; Studying Software Engineering at Federal Rural University of Semiarid.
-- 💻 &nbsp; Front end developer at Acelerabit.
+- 👊 &nbsp; Previus Job: Front end developer at Acelerabit.
+- 💻 &nbsp; Current Job: Front end developer at Closeer.
 - 📘 &nbsp; Learning more about NextJS.
 
 <h3>🛠 Tech Stack</h3>
