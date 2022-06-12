@@ -14,23 +14,6 @@
 - 🖥 &nbsp; UFERSA, Pau dos Ferros: 2017/06 - 2021/01 Bachelor of Information Technology
 - 🔧 &nbsp; Git
 
-
-<br/>
-
-<a href="https://github.com/eliziebluiz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliziebluiz&theme=synthwave&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliziebluiz&theme=synthwave&layout=compact" />
-</a>
-
-<h3>🥷 See you space cowboy </h3>
-
-<p align="center">
-<a href="https://eliziebluiz.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-eliziebluiz-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/elizieb-luiz-798994183/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-eliziebluiz-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/manno_eu"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-eliziebluiz-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:elizieb.l3@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-elizieb.l3@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
-
 <h3>👾 Languages and Tools</h3>
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -68,3 +51,13 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <img align="left" alt="Shell" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<br/>
+<br/>
+
+<p align="center">
+<a href="https://eliziebluiz.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-eliziebluiz-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/elizieb-luiz-798994183/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-eliziebluiz-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/manno_eu"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-eliziebluiz-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:elizieb.l3@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-elizieb.l3@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
