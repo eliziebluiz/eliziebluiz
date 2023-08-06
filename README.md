@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 &nbsp; Studying Software Engineering at Federal Rural University of Semiarid.
+- 🎓 &nbsp; Studying Full Stack Developer at Descomplica.
 - 👊 &nbsp; Previus Job: Front end developer at Acelerabit.
 - 💻 &nbsp; Current Job: Front end developer at Closeer.
 - 📘 &nbsp; Learning more about NextJS.
@@ -12,6 +12,7 @@
 - 🌐 &nbsp; Javascript | HTML | CSS | ReactJS | Typescript | NextJS | Python
 - 🛢 &nbsp; Fundamentals of Database - MySQL | MongoDB | SQlite3
 - 🖥 &nbsp; UFERSA, Pau dos Ferros: 2017/06 - 2021/01 Bachelor of Information Technology
+- 💼 &nbsp; UFERSA, Pau dos Ferros: 2021/01 - 2023/06 Bachelor of Software Engineering
 - 🔧 &nbsp; Git
 
 <h3>👾 Languages and Tools</h3>
