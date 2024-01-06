@@ -13,12 +13,18 @@
 - 🖥 &nbsp; UFERSA, Pau dos Ferros: 2017/06 - 2021/01 Bachelor of Information Technology
 - 💼 &nbsp; UFERSA, Pau dos Ferros: 2021/01 - 2023/06 Bachelor of Software Engineering
 
-<div style=" align:"center">
+<div style="align:"center"">
   <a href="https://github.com/eliziebluiz">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliziebluiz&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/> -->
+     <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=eliziebluiz&theme=nightowl&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliziebluiz&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
-
+<br/>
+<br/>
+    
 <p align="center">
 <a href="https://eliziebluiz.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-eliziebluiz-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/elizieb-luiz-798994183/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-eliziebluiz-blue?style=flat-square&logo=linkedin"></a>
