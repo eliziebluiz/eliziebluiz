@@ -26,8 +26,8 @@
 <br/>
     
 <p align="center">
-<a href="https://eliziebluiz.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-eliziebluiz-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/elizieb-luiz-798994183/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-eliziebluiz-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/eliziebluiz"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-eliziebluiz-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:elizieb.l3@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-elizieb.l3@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a target="_blank" href="https://eliziebluiz.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-eliziebluiz-blue?style=flat-square&logo=google-chrome"></a>
+<a target="_blank" href="https://www.linkedin.com/in/elizieb-luiz-798994183/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-eliziebluiz-blue?style=flat-square&logo=linkedin"></a>
+<a target="_blank" href="https://www.instagram.com/eliziebluiz"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-eliziebluiz-blue?style=flat-square&logo=instagram"></a>
+<a target="_blank" href="mailto:elizieb.l3@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-elizieb.l3@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
