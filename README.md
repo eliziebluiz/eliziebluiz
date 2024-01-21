@@ -14,7 +14,7 @@
 - 💼 &nbsp; UFERSA, Pau dos Ferros: 2021/01 - 2023/06 Bachelor of Software Engineering
 
 <div style="align:"center"">
-  <a href="https://github.com/eliziebluiz">
+  <a href="https://github.com/eliziebluiz" _blank>
      <img
         align="left"
         src="https://github-readme-stats.vercel.app/api?username=eliziebluiz&theme=nightowl&hide_border=false&include_all_commits=true"
