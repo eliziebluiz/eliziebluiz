@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 &nbsp; Studying Full Stack Developer at Descomplica.
+- 🎓 &nbsp; Studying Product Management at Descomplica.
 - 👊 &nbsp; Previus Job: Front end developer at Acelerabit.
 - 💻 &nbsp; Current Job: I started as a front-end developer and currently work as a Full Stack at Closeer.
 - 📘 &nbsp; Learning more about ReactJS and Django.
@@ -10,6 +10,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 🌐 &nbsp; Javascript | HTML | CSS | ReactJS | Typescript | NextJS | Python | Django
+- 🎓 &nbsp; Descomplica, 2023/05 - 2024/01 Full Stack Developer.
 - 🖥 &nbsp; UFERSA, Pau dos Ferros: 2017/06 - 2021/01 Bachelor of Information Technology
 - 💼 &nbsp; UFERSA, Pau dos Ferros: 2021/01 - 2023/06 Bachelor of Software Engineering
 
