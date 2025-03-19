@@ -17,10 +17,10 @@
 <div>
   <a href="https://github.com/eliziebluiz" _blank>
     <p align="center">
-     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=eliziebluiz&theme=elegant&hide_border=true"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliziebluiz&theme=vue-dark&show_icons=true&hide_border=false&count_private=true"/>
       <br/>
       <br/>
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliziebluiz&layout=compact&langs_count=7&theme=nightowl&hide_border=true"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliziebluiz&theme=vue-dark&show_icons=true&hide_border=false&layout=compact"/> 
     </p>
   </a>
 </div>
